@@ -1,6 +1,7 @@
 #!/bin/bash
 
-movies={"Interstellar","Bhahubali","Pushpa","Athadu"}
+movies=("Interstellar" "Bhahubali" "Pushpa" "Athadu")
+
 
 echo "Second movie name in list is: ${movies[2]}"
 
