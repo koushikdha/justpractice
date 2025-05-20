@@ -1,0 +1,6 @@
+#!/bin/bash
+
+movies={Interstellar,Bhahubali,Pushpa,Athadu}
+
+echo "Second movie name in list is: $[2]"
+
