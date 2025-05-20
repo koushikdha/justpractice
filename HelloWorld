@@ -2,4 +2,4 @@
 
 name=Koushik
 
-echo "Hello $name, Welcome to shell scripting"
+echo "Hello $name, Welcome to shell scripting."
