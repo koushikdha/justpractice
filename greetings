@@ -1,0 +1,5 @@
+#!/bin/bash
+
+greeting="Good Morning."
+
+echo $greeting
