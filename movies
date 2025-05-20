@@ -3,5 +3,5 @@
 movies=("Interstellar" "Bhahubali" "Pushpa" "Athadu")
 
 
-echo "Second movie name in list is: ${movies[2]}"
+echo "Second movie name in list is: ${movies[1]}"
 
