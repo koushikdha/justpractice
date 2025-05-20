@@ -1,7 +1,8 @@
 #!/bin/bash
 
 echo "find a+b?"
+
 a=10
 b=20
 
-echo "Here is the result $((a+b))
+echo "Here is the result $((a+b))"
