@@ -1,5 +1,5 @@
 #!/bin/bash
 
-name=koushik
+name=Koushik
 
 echo "Hello $name, Welcome to shell scripting"
